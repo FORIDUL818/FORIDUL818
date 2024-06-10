@@ -1,5 +1,4 @@
-![ I am a web developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/448175842_122151237122046408_2369526707738399241_n.jpg?
-_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF-9MB6uXB3M7KHTYjjIa4wtyQdyp5woGK3JB3KnnCgYtNvptlNH3pUjAdR5LJ91VfZNyRhKvIGc0oh7JsaBCNA&_nc_ohc=Ap2wu31F9cYQ7kNvgG9sVgM&_nc_ht=scontent.fdac99-1.fna&oh=00_AYDJ8irn66hCeWaYXyuS6jBoUD1-PNtyTNcJViTfOnrlBw&oe=666C64D8)
+![ I am a web developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/448175842_122151237122046408_2369526707738399241_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF-9MB6uXB3M7KHTYjjIa4wtyQdyp5woGK3JB3KnnCgYtNvptlNH3pUjAdR5LJ91VfZNyRhKvIGc0oh7JsaBCNA&_nc_ohc=Ap2wu31F9cYQ7kNvgG9sVgM&_nc_ht=scontent.fdac99-1.fna&oh=00_AYDJ8irn66hCeWaYXyuS6jBoUD1-PNtyTNcJViTfOnrlBw&oe=666C64D8)
 
 ### Hi there 👋, My name is Foridul
 ####  I am a web developer
