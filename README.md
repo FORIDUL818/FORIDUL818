@@ -1,10 +1,10 @@
-![ I am a web developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/448175842_122151237122046408_2369526707738399241_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF-9MB6uXB3M7KHTYjjIa4wtyQdyp5woGK3JB3KnnCgYtNvptlNH3pUjAdR5LJ91VfZNyRhKvIGc0oh7JsaBCNA&_nc_ohc=Ap2wu31F9cYQ7kNvgG9sVgM&_nc_ht=scontent.fdac99-1.fna&oh=00_AYDJ8irn66hCeWaYXyuS6jBoUD1-PNtyTNcJViTfOnrlBw&oe=666C64D8) 
+![ I am a web developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/448218704_1278262143151058_8275634132879059371_n.png?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEkLwKKYlEADw5gwD0wsTL68IqipQfRCpnwiqKlB9EKmTpaTwG0JJy_9IwOmtTHWgt0TLyXCns4DGd03pMtWusR&_nc_ohc=mTn2rLJzUN4Q7kNvgGExP13&_nc_ht=scontent.fdac99-1.fna&oh=00_AYA0qMFwmf7EFXOaWycn5vs2aNdEQgGKsnwscKNSyUVmfA&oe=66C9E131) 
 
 ### Hi there 👋, My name is Foridul
 ####  I am a web developer
 
 
-my name is Foridul islam,I am a web developer, and I am a Student at Creative IT Institute. I am a MERN Stack developer, and my first target is quality work and customer satisfaction.  my mission is skilled in the software development industry and service in the world.   
+my name is Foridul islam, a web developer, and I am a Student at Creative IT Institute. I am a MERN Stack developer, and my first target is quality work and customer satisfaction.  my mission is to be skilled in the software development industry and service worldwide.   
 
 Skills: javascript/ REACT / redux/firebase/node/express/Mongodb/tailwind/HTML / CSS
 
