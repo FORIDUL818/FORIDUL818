@@ -4,7 +4,7 @@
 ####  I am a web developer
 
 
-my name is Foridul islam, a web developer, and I am a Student at Creative IT Institute. I am a MERN Stack developer, and my first target is quality work and customer satisfaction.  my mission is skilled in the software development industry and service in the world.   
+my name is Foridul islam,I am a web developer, and I am a Student at Creative IT Institute. I am a MERN Stack developer, and my first target is quality work and customer satisfaction.  my mission is skilled in the software development industry and service in the world.   
 
 Skills: javascript/ REACT / redux/firebase/node/express/Mongodb/tailwind/HTML / CSS
 
