@@ -1,4 +1,4 @@
-![ I am a web developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/448218704_1278262143151058_8275634132879059371_n.png?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEkLwKKYlEADw5gwD0wsTL68IqipQfRCpnwiqKlB9EKmTpaTwG0JJy_9IwOmtTHWgt0TLyXCns4DGd03pMtWusR&_nc_ohc=mTn2rLJzUN4Q7kNvgGExP13&_nc_ht=scontent.fdac99-1.fna&oh=00_AYA0qMFwmf7EFXOaWycn5vs2aNdEQgGKsnwscKNSyUVmfA&oe=66C9E131) 
+![ I am a web developer](https://www.linkedin.com/in/foridulslam/overlay/background-image/) 
 
 ### Hi there 👋, My name is Foridul
 ####  I am a web developer
