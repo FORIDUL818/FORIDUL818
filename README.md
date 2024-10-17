@@ -4,12 +4,12 @@
 ####  I am a web developer
 
 
-my name is Foridul islam, a web developer, and I am a Student at Creative IT Institute. I am a MERN Stack developer, and my first target is quality work and customer satisfaction.  my mission is to be skilled in the software development industry and service worldwide.   
+My name is Foridul Islam, and I am a web developer. I am a MERN Stack developer, and my first target is quality work and customer satisfaction. My mission is to be skilled in the software development industry and provide service worldwide.   
 
-Skills: javascript/ REACT / redux/firebase/node/express/Mongodb/tailwind/HTML / CSS
+Skills: java/javascript/ REACT/redux/node/express/MongoDB/ SQL/MySQL HTML/CSS/tailwind
 
 - 🔭 I’m currently working on practicing JavaSript node/express/react/MongoDB 
-- 🌱 I’m currently learning Express, MongoDB, and react 
+- 🌱 I’m proficient  in javascript node/Express, MongoDB/mongoose, and react 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/FORIDUL818)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/foridulslam//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Foridul.islamftr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/21719066/fi-foridul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@user-jm5wk9ym5y?si=GVeXqj5Wj8uKQJPO)  
