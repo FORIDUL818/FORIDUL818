@@ -4,7 +4,7 @@
 ####  I am a web developer
 
 
-My name is Foridul Islam, and I am a web developer. I am a MERN Stack developer, and my first target is quality work and customer satisfaction. My mission is to be skilled in the software development industry and provide service worldwide.   
+I am a passionate web developer specializing in the MERN stack. My top priorities are delivering high-quality work and ensuring customer satisfaction. With a focus on continuous learning, I aim to master software development and provide exceptional service to clients worldwide. My goal is to build efficient, scalable solutions that make a positive impact.  
 
 Skills: java/javascript/ REACT/redux/node/express/MongoDB/ SQL/MySQL HTML/CSS/tailwind
 
