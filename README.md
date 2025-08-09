@@ -1,4 +1,4 @@
-![I am a Web Developer](https://www.linkedin.com/in/foridulislam22)
+[I am web developer](https://www.linkedin.com/in/foridulislam22/)
 
 # Hi there 👋, I'm Foridul  
 ### 💻 Web Developer | MERN Stack Specialist  
